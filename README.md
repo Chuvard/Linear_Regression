@@ -10,13 +10,13 @@ We have a dataset with average annual salaries, in US$ for a labor force that co
 
 
 Table of Contents:
-1 - Importing modules
-2 - Linear regression with one variable
-    2.1 Problem Statement
-    2.2 Dataset
-    2.3 Refresher on linear regression
-    2.4 Compute Cost
-    2.5 Gradient descent
+1 - Importing modules\
+2 - Linear regression with one variable\
+    2.1 Problem Statement\
+    2.2 Dataset\
+    2.3 Refresher on linear regression\
+    2.4 Compute Cost\
+    2.5 Gradient descent\
     2.6 Learning parameters using batch gradient descent
 
 
