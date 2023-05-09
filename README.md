@@ -8,7 +8,7 @@
 We have a dataset with average annual salaries, in US$ for a labor force that corresponds to work experience, in years for particular field 
 
 
-### Table of Contents:\
+### Table of Contents:
 1 - Importing modules\
 2 - Linear regression with one variable\
     2.1 Problem Statement\
