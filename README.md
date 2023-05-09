@@ -2,7 +2,6 @@
 
 ### Project's Title: Linear_Regression
 
-
 ### Project Description (Problem Satement): 
 - Suppose we are consulting company and we need to prepare a labor market report for next year and predict the average annual salary for the labor force in a particular region with the relevant working experience.
 
